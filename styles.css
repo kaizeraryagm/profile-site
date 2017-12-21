@@ -243,11 +243,25 @@ h3 {
 #dropdownMenuButton {
   position: fixed;
   bottom: 35px;
-  right: 300px;
+  right: 200px;
 }
 
+body, html {
+    height: 100%;
+}
+.bg {
+    /* The image used */
+    background-image: url("images/beam1.jpg");
 
+    /* Full height */
+    height: 100%;
 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+}
 
 
 
