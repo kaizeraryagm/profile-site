@@ -129,10 +129,9 @@ body, html {
 }
 
 #dropdownMenuButton {
-  position: absolute;
-  bottom: 100px;
+  position: fixed;
+  bottom: 35px;
   right: 300px;
-  border: 3px solid;
 }
 
 .skills li {
