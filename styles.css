@@ -120,20 +120,6 @@ body, html {
     opacity: 0.6;
 }
 
-.dropdown-toggle {
-  background-color : #31B0D5;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 4px;
-  border-color: #46b8da;
-}
-
-#dropdownMenuButton {
-  position: fixed;
-  bottom: 35px;
-  right: 300px;
-}
-
 .skills li {
   border-radius: 6px;
   display: inline-block;
@@ -244,6 +230,20 @@ h3 {
   text-align: center;
   border: solid black 3px;
   border-radius: 10px;
+}
+
+.dropdown-toggle {
+  background-color : #31B0D5;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border-color: #46b8da;
+}
+
+#dropdownMenuButton {
+  position: fixed;
+  bottom: 35px;
+  right: 300px;
 }
 
 
